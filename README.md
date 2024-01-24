@@ -40,6 +40,6 @@
 ## Project List
 - [WPF] [시리얼 통신 CNC 모션제어 프로그램](https://github.com/seongminm/DED3D_Monitoring)
 - [WPF] [시리얼 통신 실시간 모니터링 프로그램](https://github.com/seongminm/FDM3D_Monitoring)
-- [WPF] [UDP/IP 실시간 모니터링 프로그](https://github.com/seongminm/DED3D_Monitoring)
+- [WPF] [UDP/IP 실시간 모니터링 프로그램](https://github.com/seongminm/DED3D_Monitoring)
 
 
