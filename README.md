@@ -1,7 +1,7 @@
 <!-- 헤더부분(가운데 정렬을위해 html 문법사용) -->
 <p align='center'>
   <a href="https://github.com/SeoDongWoo1216">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Seongmin&fontSize=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Seongmin&fontSize=50"/> 
   </a>
 </p>
 
