@@ -34,6 +34,7 @@
 <h3 align='center'>Databases<h3>
 <p align='center'>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white"/>
+<img alt="MSSQL" src="https://img.shields.io/badge/mssql-CC2927.svg?style=flat&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 <br/>
 
