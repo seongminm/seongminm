@@ -40,8 +40,8 @@
 <br/>
 
 ## Project List
-- [WPF] [OpenaAPI를 활용한 영화 검색 프로그램](https://github.com/seongminm/MovieFinder)
-- [WPF] [시리얼 통신 CNC 모션제어 프로그램](https://github.com/seongminm/GrblController)
+- [WPF] [OpenaAPI, MSSQL을 활용한 영화 검색 프로그램](https://github.com/seongminm/MovieFinder)
+- [WPF] [시리얼 통신, MySQL CNC 모션제어 프로그램](https://github.com/seongminm/GrblController)
 - [WPF] [시리얼 통신](https://github.com/seongminm/FDM3D_Monitoring), [UDP/IP](https://github.com/seongminm/DED3D_Monitoring) 실시간 모니터링 프로그램
 
 
